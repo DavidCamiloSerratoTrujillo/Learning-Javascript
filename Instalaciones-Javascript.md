@@ -13,14 +13,23 @@
 
 
 ## Extensiones de VSCode
-[Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
-[Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-[Bracket Pair Colorized 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-[Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-[Debugger For Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-[Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+*[Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
+
+*[Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+
+*[Bracket Pair Colorized 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+
+*[Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+*[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+*[Debugger For Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
+*[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+*[Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+
+
 ### Configuración del Bracket Pair Colorizer 2
 
 [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
